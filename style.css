@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color:white;
+    color: red;
+    margin: 20px;
+    padding: 0;
+
+}
+
+/* headings */
+
+hi{
+    color: blue;
+    font-size: 2.5em;
+    border-bottom: 2-px solid white;
+    padding-bottom: 10px;
+}
+
+h2,h3,h4,h5,h6{
+    color: pink;
+    margin-top: 20px;
+
+}
+
+/* paragraphs */
+
+p{
+    font-size: 1em;
+    line-height: 1.6;
+
+}
+
+/* links */
+
+a{
+    color: green;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
